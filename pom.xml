@@ -18,15 +18,13 @@
   </build>
 
 	<dependencies>
+		
 		<dependency>
 			<groupId>org.apache.hadoop</groupId>
 			<artifactId>hadoop-core</artifactId>
 			<version>1.2.1</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.hbase</groupId>
-			<artifactId>hbase-client</artifactId>
-			<version>0.98.8-hadoop1</version>
-		</dependency>
+	
+		
 	</dependencies>
 </project>
